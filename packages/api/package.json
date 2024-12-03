@@ -19,7 +19,7 @@
   "dependencies": {
     "activedirectory2": "^2.1.0",
     "async-lock": "^1.2.4",
-    "axios": "^0.21.1",
+    "axios": "^1.7.8",
     "body-parser": "^1.19.0",
     "bufferutil": "^4.0.1",
     "byline": "^5.0.0",
