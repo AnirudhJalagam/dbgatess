@@ -64,7 +64,7 @@
   },
   "dependencies": {
     "concurrently": "^5.1.0",
-    "patch-package": "^6.2.1",
+    "patch-package": "^8.0.1",
     "pino-pretty": "^9.1.1"
   },
   "devDependencies": {
